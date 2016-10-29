@@ -5,18 +5,18 @@ body {
 }
 
 .center {
-    text-align: center;
+    text-align: left;
 }
 
 .text-big {
-    font-size: 400%;
+    font-size: 100%;
 }
 
 .bold {
-    font-weight: italic;
+    font-weight: bold;
 }
 
 .img-medium {
-    height: 250px;
+    height: 150px;
 }
 
