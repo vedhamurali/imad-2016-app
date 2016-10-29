@@ -24,7 +24,8 @@ body {
 .title{
     text-align:center;
     font-size: 600%;
-    font-weight: bold;
+    font-family: sans-serif;
+     margin-top: 150px;
 }
 
 }
