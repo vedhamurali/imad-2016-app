@@ -4,7 +4,7 @@ body {
     margin-top: 75px;
 }
 
-.center {
+.google {
     text-align: left;
 }
 
@@ -22,5 +22,9 @@ body {
 
 .img-1 {
     height: 150px;
+}
+
+.yahoo{
+    text-align: right;
 }
 
